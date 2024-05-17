@@ -10,7 +10,7 @@ Welcome to my portfolio! Here's a summary of my data analytics work in SQL, Pyth
 # SQL
 | Project Link | Area | Tools | Project Description |
 | ------------ | ---- | ----- | ------------------- |
-| Pokemon Statistical Analysis | Data Cleaning & Advanced Analytics | BigQuery, Google SQL | Comprehensive analysis of Pokémon data, focusing on various aspects such as type distribution, statistical analysis of attributes, and evolutionary growth. The project employs various SQL techniques such as multi-level scalar subqueries and recursive CTEs to derive meaningful insights. 
+| 🎮 [Pokemon Statistical Analysis](https://github.com/ddibara5/pokemon-analysis) | Data Cleaning & Advanced Analytics | BigQuery, Google SQL | Comprehensive analysis of Pokémon data, focusing on various aspects such as type distribution, statistical analysis of attributes, and evolutionary growth. The project employs various SQL techniques such as multi-level scalar subqueries and recursive CTEs to derive meaningful insights. 
 
 # Python
 
