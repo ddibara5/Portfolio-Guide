@@ -16,4 +16,4 @@ Welcome to my portfolio! Here's a summary of my data analytics work in SQL, Pyth
 # Python
 | Project Link | Area | Tools | Project Description |
 | ------------ | ---- | ----- | ------------------- |
-| 🛒 [Walmart Black Friday Analysis](https://github.com/ddibara5/black-friday) | Data Cleaning, Exploratory Data Analysis, Data Visualization, Statistical Analysis | Pandas, Matplotlib, Seaborn, Scipy | Analysis of Black Friday purchase data to uncover insights into consumer behavior. The analysis is aimed at understanding the purchasing habits of different demographics and identifying the key factors influencing purchase amounts.
+| 🛒 [Walmart Black Friday Analysis](https://github.com/ddibara5/black-friday) | Data Cleaning, Exploratory Data Analysis, Visualization, Statistical Analysis | Pandas, Matplotlib, Seaborn, Scipy | Analysis of Black Friday purchase data to uncover insights into consumer behavior. The analysis is aimed at understanding the purchasing habits of different demographics and identifying the key factors influencing purchase amounts.
